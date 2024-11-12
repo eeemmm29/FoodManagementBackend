@@ -1,1 +1,4 @@
-/.venv/
+
+*.db
+tempCodeRunnerFile.py
+/__pycache__/
